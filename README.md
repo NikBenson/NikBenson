@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello World!
+Or to who ever you are.
+I'm [![forthebadge](https://img.shields.io/github/followers/NikBenson?label=Nik&style=social)](https://github.com/NikBenson) and I'm going to introduce myself in this document.
 
-<!--
-**NikBenson/NikBenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I'm an 16 year old german student and I'm looking forward to archive my [abitur](https://en.wikipedia.org/wiki/Abitur) in 2021.
+#### [![My github stats](https://github-readme-stats.vercel.app/api?username=NikBenson&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My skills :computer:
+```json
+{
+	"Domain-specific languages": {
+		"SQL": "MySQL"
+	},
+	"Markup Languages": {
+		"CSS": ["Bootstrap"],
+		"HTML": [],
+		"LaTeX": [],
+		"Markdown": []
+	},
+	"Programming Languages": {
+		"C": [],
+		"C++": ["FLTK"],
+		"C#": ["Unity"],
+		"Java": [],
+		"JavaScript": ["JQuery", "Node.js"],
+		"PHP": ["Laravel", "Slim/Twig", "Symfony"],
+		"Python": ["bs4"],
+	},
+	"Tools": {
+		"Docker": [],
+		"Git": []
+	}
+}
+```
