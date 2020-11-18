@@ -3,7 +3,7 @@ Or to who ever you are.
 I'm [![forthebadge](https://img.shields.io/github/followers/NikBenson?label=Nik&style=social)](https://github.com/NikBenson) and I'm going to introduce myself in this document.
 
 ### About me
-I'm an 17 year old german student and I'm looking forward to archive my [abitur](https://en.wikipedia.org/wiki/Abitur) in 2021.
+I'm an 17 year old student from Germany and I'm looking forward to archive my [Abitur](https://en.wikipedia.org/wiki/Abitur) in 2021.
 #### [![My github stats](https://github-readme-stats.vercel.app/api?username=NikBenson&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My skills :computer:
