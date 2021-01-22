@@ -7,7 +7,7 @@ I'm an 17 year old student from Germany and I'm looking forward to archive my [A
 #### [![My github stats](https://github-readme-stats.vercel.app/api?username=NikBenson&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My skills :computer:
-```json
+```java script
 {
 	"Domain-specific languages": {
 		"SQL": "MySQL"
