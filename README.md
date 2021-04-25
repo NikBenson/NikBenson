@@ -22,10 +22,10 @@ I'm an 17 year old student from Germany and I'm looking forward to archive my [A
 		"C": [],
 		"C++": ["FLTK"],
 		"C#": {
-			"Unity": ["ARFoundation"]
+			"Unity": ["ARFoundation", "AssetBundles"]
 		},
 		"Java": [],
-		"JavaScript": ["JQuery", "Node.js"],
+		"JavaScript": ["Angular", "JQuery", "Node.js"],
 		"PHP": ["Laravel", "Slim/Twig", "Symfony"],
 		"Python": ["bs4"],
 	},
